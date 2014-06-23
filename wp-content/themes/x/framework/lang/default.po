@@ -1,0 +1,4698 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: x\n"
+"POT-Creation-Date: 2014-03-02 18:23-0600\n"
+"PO-Revision-Date: 2014-03-02 18:23-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;__;_e;_n;_n_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../searchform.php:12
+#: ../../framework/functions/global/admin/visual-composer.php:3629
+msgid "Search"
+msgstr ""
+
+#: ../../framework/functions/icon.php:84
+#: ../../framework/functions/integrity.php:240
+#: ../../framework/functions/renew.php:236
+#: ../../framework/functions/global/comment.php:32
+msgid "Pingback:"
+msgstr ""
+
+#: ../../framework/functions/icon.php:84
+#: ../../framework/functions/integrity.php:240
+#: ../../framework/functions/renew.php:236
+#: ../../framework/functions/global/comment.php:32
+msgid "(Edit)"
+msgstr ""
+
+#: ../../framework/functions/icon.php:93
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../../framework/functions/icon.php:95
+#: ../../framework/functions/integrity.php:266
+#: ../../framework/functions/renew.php:278
+#: ../../framework/functions/global/comment.php:54
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../../framework/functions/icon.php:99
+msgid ""
+"Reply<span class=\"comment-reply-link-after\"><i class=\"x-icon-reply\"></"
+"i></span>"
+msgstr ""
+
+#: ../../framework/functions/icon.php:103
+#: ../../framework/functions/integrity.php:254
+#: ../../framework/functions/global/comment.php:42
+msgid "Post<br>Author"
+msgstr ""
+
+#: ../../framework/functions/icon.php:115
+#: ../../framework/functions/integrity.php:275
+#: ../../framework/functions/renew.php:270
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: ../../framework/functions/icon.php:116
+#: ../../framework/functions/integrity.php:276
+#: ../../framework/functions/renew.php:271
+msgid "out of 5"
+msgstr ""
+
+#: ../../framework/functions/icon.php:125
+#: ../../framework/functions/integrity.php:271
+#: ../../framework/functions/renew.php:283
+msgid "<i class=\"x-icon-edit\"></i> Edit"
+msgstr ""
+
+#: ../../framework/functions/icon.php:129
+#: ../../framework/functions/integrity.php:282
+#: ../../framework/functions/renew.php:287
+#: ../../framework/functions/global/comment.php:63
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../../framework/functions/icon.php:156
+#: ../../framework/functions/integrity.php:162
+#: ../../framework/functions/integrity.php:168
+#: ../../framework/functions/renew.php:158
+#: ../../framework/functions/renew.php:164
+#, php-format
+msgid "Leave a comment on: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../../framework/functions/integrity.php:125
+#: ../../framework/functions/integrity.php:146
+#: ../../framework/functions/renew.php:121
+#: ../../framework/functions/renew.php:142
+#, php-format
+msgid "View all posts in: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../../framework/functions/integrity.php:163
+#: ../../framework/functions/renew.php:159
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../../framework/functions/integrity.php:169
+#: ../../framework/functions/renew.php:165
+msgid "Comment"
+msgstr ""
+
+#: ../../framework/functions/integrity.php:174
+#: ../../framework/functions/renew.php:170
+#, php-format
+msgid "View all comments on: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../../framework/functions/integrity.php:175
+#: ../../framework/functions/renew.php:171
+#: ../../framework/views/icon/wp-comments.php:30
+#: ../../framework/views/integrity/wp-comments.php:30
+msgid "Comments"
+msgstr ""
+
+#: ../../framework/functions/integrity.php:289
+#: ../../framework/functions/renew.php:259
+#: ../../framework/functions/global/comment.php:69
+msgid ""
+"Reply <span class=\"comment-reply-link-after\"><i class=\"x-icon-reply\"></"
+"i></span>"
+msgstr ""
+
+#: ../../framework/functions/global/breadcrumbs.php:39
+msgid "Home"
+msgstr ""
+
+#: ../../framework/functions/global/breadcrumbs.php:67
+msgid "Search Results for "
+msgstr ""
+
+#: ../../framework/functions/global/breadcrumbs.php:72
+#: ../../framework/functions/global/breadcrumbs.php:75
+msgid "See All Posts"
+msgstr ""
+
+#: ../../framework/functions/global/breadcrumbs.php:99
+msgid "Posts by "
+msgstr ""
+
+#: ../../framework/functions/global/breadcrumbs.php:101
+msgid "404 (Page Not Found)"
+msgstr ""
+
+#: ../../framework/functions/global/breadcrumbs.php:108
+msgid "Archives "
+msgstr ""
+
+#: ../../framework/functions/global/breadcrumbs.php:113
+#: ../../framework/functions/global/admin/visual-composer.php:3254
+msgid "Page"
+msgstr ""
+
+#: ../../framework/functions/global/comment.php:59
+msgid "Edit"
+msgstr ""
+
+#: ../../framework/functions/global/featured-content.php:63
+#: ../../framework/plugins/x-shortcodes/functions/shortcodes.php:1344
+#: ../../framework/views/icon/content-audio.php:21
+#: ../../framework/views/icon/content-gallery.php:19
+#: ../../framework/views/icon/content-image.php:19
+#: ../../framework/views/icon/content-link.php:26
+#: ../../framework/views/icon/content-page.php:25
+#: ../../framework/views/icon/content-quote.php:22
+#: ../../framework/views/icon/content-video.php:19
+#: ../../framework/views/icon/content.php:19
+#: ../../framework/views/integrity/content-audio.php:31
+#: ../../framework/views/integrity/content-gallery.php:21
+#: ../../framework/views/integrity/content-image.php:28
+#: ../../framework/views/integrity/content-link.php:26
+#: ../../framework/views/integrity/content-page.php:27
+#: ../../framework/views/integrity/content-portfolio.php:52
+#: ../../framework/views/integrity/content-quote.php:28
+#: ../../framework/views/integrity/content-video.php:21
+#: ../../framework/views/integrity/content.php:21
+#: ../../framework/views/renew/content-audio.php:18
+#: ../../framework/views/renew/content-gallery.php:18
+#: ../../framework/views/renew/content-image.php:18
+#: ../../framework/views/renew/content-link.php:23
+#: ../../framework/views/renew/content-page.php:21
+#: ../../framework/views/renew/content-portfolio.php:29
+#: ../../framework/views/renew/content-quote.php:24
+#: ../../framework/views/renew/content-video.php:18
+#: ../../framework/views/renew/content.php:18
+#, php-format
+msgid "Permalink to: \"%s\""
+msgstr ""
+
+#: ../../framework/functions/global/miscellaneous.php:217
+#: ../../framework/functions/global/miscellaneous.php:219
+#: ../../framework/functions/global/miscellaneous.php:239
+#: ../../framework/functions/global/miscellaneous.php:241
+#: ../../framework/functions/global/miscellaneous.php:243
+msgid "Read More"
+msgstr ""
+
+#: ../../framework/functions/global/miscellaneous.php:318
+msgid "Pages:"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:28
+#: ../../framework/functions/global/admin/customizer/register.php:2826
+msgid "Portfolio"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:29
+msgid "Portfolio Item"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:30
+msgid "Add New Item"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:31
+#: ../../framework/functions/global/admin/custom-post-types.php:33
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:32
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:34
+msgid "View Item"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:35
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:36
+msgid "No portfolio items found"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:37
+msgid "No portfolio items found in trash"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:62
+#: ../../framework/functions/global/admin/custom-post-types.php:76
+msgid "Portfolio Tags"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:63
+msgid "Portfolio Tag"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:64
+msgid "Search Portfolio Tags"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:65
+msgid "Popular Portfolio Tags"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:66
+msgid "All Portfolio Tags"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:67
+msgid "Parent Portfolio Tag"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:68
+msgid "Parent Portfolio Tag:"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:69
+msgid "Edit Portfolio Tag"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:70
+msgid "Update Portfolio Tag"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:71
+msgid "Add New Portfolio Tag"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:72
+msgid "New Portfolio Tag Name"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:73
+msgid "Separate portfolio tags with commas"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:74
+msgid "Add or remove portfolio tags"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:75
+msgid "Choose from the most used portfolio tags"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:99
+#: ../../framework/functions/global/admin/custom-post-types.php:113
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:100
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:101
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:102
+msgid "Popular Portfolio Categories"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:103
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:104
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:105
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:106
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:107
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:108
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:109
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:110
+msgid "Separate portfolio categories with commas"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:111
+msgid "Add or remove portfolio categories"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:112
+msgid "Choose from the most used portfolio categories"
+msgstr ""
+
+#: ../../framework/functions/global/admin/custom-post-types.php:140
+msgid "Thumbnail"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:33
+msgid "Quote Settings"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:34
+#: ../../framework/functions/global/admin/meta.php:41
+msgid "Input your quote."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:40
+msgid "The Quote"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:47
+msgid "Citation"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:48
+msgid "Specify who originally said the quote."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:65
+msgid "Link Settings"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:66
+msgid "Input your link."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:72
+msgid "The Link"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:73
+msgid "Insert your link URL, e.g. http://www.themeforest.net."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:90
+msgid "Video Settings"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:91
+msgid "These settings enable you to embed videos into your posts."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:97
+#: ../../framework/functions/global/admin/visual-composer.php:1479
+#: ../../framework/functions/global/admin/visual-composer.php:1592
+msgid "Aspect Ratio"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:98
+msgid "Select the aspect ratio for your video."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:105
+#: ../../framework/functions/global/admin/meta.php:267
+msgid "M4V File URL"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:106
+msgid "The URL to the .m4v video file."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:112
+#: ../../framework/functions/global/admin/meta.php:274
+msgid "OGV File URL"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:113
+msgid "The URL to the .ogv video file."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:119
+#: ../../framework/functions/global/admin/meta.php:281
+msgid "Embedded Video Code"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:120
+#: ../../framework/functions/global/admin/meta.php:282
+msgid ""
+"If you are using something other than self hosted video such as YouTube, "
+"Vimeo, or Wistia, paste the embed code here. This field will override the "
+"above."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:137
+msgid "Audio Settings"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:138
+msgid ""
+"These settings enable you to embed audio into your posts. You must provide "
+"both .mp3 and .agg/.oga file formats in order for self hosted audio to "
+"function accross all browsers."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:144
+msgid "MP3 File URL"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:145
+msgid "The URL to the .mp3 audio file."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:151
+msgid "OGA File URL"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:152
+msgid "The URL to the .oga or .ogg audio file."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:158
+msgid "Embedded Audio Code"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:159
+msgid ""
+"If you are using something other than self hosted audio such as Soundcloud "
+"paste the embed code here. This field will override the above."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:176
+msgid "Post Settings"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:177
+msgid ""
+"Here you will find various options you can use to create different page "
+"styles."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:183
+#: ../../framework/functions/global/admin/meta.php:236
+#: ../../framework/functions/global/admin/meta.php:334
+msgid "Body CSS Class(es)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:184
+#: ../../framework/functions/global/admin/meta.php:237
+#: ../../framework/functions/global/admin/meta.php:335
+msgid ""
+"Add a custom CSS class to the &lt;body&gt; element. Separate multiple class "
+"names with a space."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:190
+msgid "Fullwidth Post Layout"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:191
+msgid ""
+"If your global content layout includes a sidebar, selecting this option will "
+"remove the sidebar for this post."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:197
+#: ../../framework/functions/global/admin/meta.php:295
+#: ../../framework/functions/global/admin/meta.php:355
+msgid "Background Image(s)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:198
+#: ../../framework/functions/global/admin/meta.php:296
+#: ../../framework/functions/global/admin/meta.php:356
+msgid ""
+"Click the button to upload your background image(s), or enter them in "
+"manually using the text field above. Loading multiple background images will "
+"create a slideshow effect. To clear, delete the image URLs from the text "
+"field and save your page."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:204
+#: ../../framework/functions/global/admin/meta.php:302
+#: ../../framework/functions/global/admin/meta.php:362
+msgid "Background Image(s) Fade"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:205
+#: ../../framework/functions/global/admin/meta.php:303
+#: ../../framework/functions/global/admin/meta.php:363
+msgid ""
+"Set a time in milliseconds for your image(s) to fade in. To disable this "
+"feature, set the value to \"0.\""
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:211
+#: ../../framework/functions/global/admin/meta.php:309
+#: ../../framework/functions/global/admin/meta.php:369
+msgid "Background Images Duration"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:212
+#: ../../framework/functions/global/admin/meta.php:310
+#: ../../framework/functions/global/admin/meta.php:370
+msgid ""
+"Only applicable if multiple images are selected, creating a background image "
+"slider. Set a time in milliseconds for your images to remain on screen."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:229
+msgid "Portfolio Settings"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:230
+msgid "Select the appropriate options for your portfolio output."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:243
+msgid "Media Type"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:244
+msgid ""
+"Select which kind of media you want to display for your portfolio. If "
+"selecting a \"Gallery,\" simply upload your images to this post and organize "
+"them in the order you want them to display."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:251
+msgid "Featured Content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:252
+msgid ""
+"Select \"Media\" if you would like to show your video or gallery on the "
+"index page in place of the featured image."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:259
+msgid "Video Aspect Ratio"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:260
+msgid ""
+"If selecting \"Video,\" choose the aspect ratio you would like for your "
+"video."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:268
+msgid "If selecting \"Video,\" place the URL to your .m4v video file here."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:275
+msgid "If selecting \"Video,\" place the URL to your .ogv video file here."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:288
+msgid "Project Link"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:289
+msgid ""
+"Provide an external link to the project you worked on if one is available."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:327
+msgid "Page Settings"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:328
+msgid ""
+"Here you will find various options you can use to create different page "
+"layouts and styles."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:341
+msgid "Disable Page Title"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:342
+msgid ""
+"Select to disable the page title. Disabling the page title provides greater "
+"stylistic flexibility."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:348
+msgid "One Page Navigation"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:349
+msgid ""
+"To activate your one page navigation, select a menu from the dropdown. To "
+"deactivate one page navigation, set the dropdown back to \"Deactivated.\""
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:389
+msgid "Icon Page Settings"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:390
+msgid ""
+"Here you will find some options specific to Icon that you can use to create "
+"different page layouts."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:396
+msgid "Blank Template Sidebar"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:397
+msgid ""
+"Because of Icon's unique layout, there may be times where you wish to show a "
+"sidebar on your blank templates. If that is the case, select \"Yes\" to "
+"activate your sidebar."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:419
+msgid "Slider Settings: Above Masthead"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:420
+msgid "Select your options to display a slider above the masthead."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:426
+#: ../../framework/functions/global/admin/meta.php:490
+#: ../../framework/functions/global/admin/visual-composer.php:2045
+msgid "Slider"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:427
+#: ../../framework/functions/global/admin/meta.php:491
+msgid ""
+"To activate your slider, select an option from the dropdown. To deactivate "
+"your slider, set the dropdown back to \"Deactivated.\""
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:433
+#: ../../framework/functions/global/admin/meta.php:497
+msgid "Optional Background Video"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:434
+#: ../../framework/functions/global/admin/meta.php:498
+msgid ""
+"Input the URL to your .mp4 video file to display an optional background "
+"video."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:440
+#: ../../framework/functions/global/admin/meta.php:504
+msgid "Video Poster Image (For Mobile)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:441
+#: ../../framework/functions/global/admin/meta.php:505
+msgid ""
+"Click the button to upload your video poster image to show on mobile "
+"devices, or enter it in manually using the text field above. Only select one "
+"image for this field. To clear, delete the image URL from the text field and "
+"save your page."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:447
+#: ../../framework/functions/global/admin/meta.php:511
+msgid "Enable Scroll Bottom Anchor"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:448
+#: ../../framework/functions/global/admin/meta.php:512
+msgid "Select to enable the scroll bottom anchor for your slider."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:454
+#: ../../framework/functions/global/admin/meta.php:518
+msgid "Scroll Bottom Anchor Alignment"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:455
+#: ../../framework/functions/global/admin/meta.php:519
+msgid "Select the alignment of the scroll bottom anchor for your slider."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:462
+#: ../../framework/functions/global/admin/meta.php:526
+msgid "Scroll Bottom Anchor Color"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:463
+#: ../../framework/functions/global/admin/meta.php:527
+msgid "Select the color of the scroll bottom anchor for your slider."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:469
+#: ../../framework/functions/global/admin/meta.php:533
+msgid "Scroll Bottom Anchor Color Hover"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:470
+#: ../../framework/functions/global/admin/meta.php:534
+msgid "Select the hover color of the scroll bottom anchor for your slider."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:483
+msgid "Slider Settings: Below Masthead"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:484
+msgid "Select your options to display a slider below the masthead."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:820
+#: ../../framework/functions/global/admin/meta.php:844
+msgid "Archive Title"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:822
+#: ../../framework/functions/global/admin/meta.php:847
+msgid "Enter in a value to overwrite the default title of the archive page."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:825
+msgid "Archive Subtitle"
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:827
+#: ../../framework/functions/global/admin/meta.php:854
+msgid ""
+"Enter in a value to overwrite the default subtitle of the archive page. Note "
+"that not all Stacks display the subtitle on their archive pages."
+msgstr ""
+
+#: ../../framework/functions/global/admin/meta.php:851
+msgid "Archive Subitle"
+msgstr ""
+
+#: ../../framework/functions/global/admin/setup.php:80
+msgid "Primary Menu"
+msgstr ""
+
+#: ../../framework/functions/global/admin/setup.php:81
+msgid "Footer Menu"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:155
+#: ../../framework/functions/global/admin/tmg-plugin-registration.php:74
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:156
+#: ../../framework/functions/global/admin/tmg-plugin-registration.php:75
+msgid "Install Plugins"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:157
+#: ../../framework/functions/global/admin/tmg-plugin-registration.php:76
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:159
+#: ../../framework/functions/global/admin/tmg-plugin-registration.php:78
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:160
+#: ../../framework/functions/global/admin/tmg-plugin-registration.php:79
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:161
+#: ../../framework/functions/global/admin/tmg-plugin-registration.php:80
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:162
+#: ../../framework/functions/global/admin/tmg-plugin-registration.php:81
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:163
+#: ../../framework/functions/global/admin/tmg-plugin-registration.php:82
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:164
+#: ../../framework/functions/global/admin/tmg-plugin-registration.php:83
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:165
+#: ../../framework/functions/global/admin/tmg-plugin-registration.php:84
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:166
+#: ../../framework/functions/global/admin/tmg-plugin-registration.php:85
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:167
+#: ../../framework/functions/global/admin/tmg-plugin-registration.php:86
+msgid "Begin installing plugin"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:168
+#: ../../framework/functions/global/admin/tmg-plugin-registration.php:87
+msgid "Activate installed plugin"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:169
+#: ../../framework/functions/global/admin/tmg-plugin-registration.php:88
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:171
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1840
+#: ../../framework/functions/global/admin/tmg-plugin-registration.php:89
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:172
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1538
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1085
+msgid "External Link"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1293
+#: ../../framework/functions/global/admin/visual-composer.php:441
+#: ../../framework/functions/global/admin/visual-composer.php:932
+#: ../../framework/functions/global/admin/visual-composer.php:1269
+msgid "Type"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1294
+msgid "Status"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1313
+msgid "Activate"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1950
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1950
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-registration.php:77
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../../framework/functions/global/admin/tmg-plugin-registration.php:90
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:48
+#: ../../framework/functions/global/admin/visual-composer.php:3740
+#: ../../framework/functions/global/admin/customizer/register.php:2769
+#: ../../framework/functions/global/admin/customizer/register.php:2921
+msgid "Content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:49
+#: ../../framework/functions/global/admin/visual-composer.php:3741
+msgid "Information"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:50
+#: ../../framework/functions/global/admin/visual-composer.php:3742
+msgid "Marketing"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:51
+#: ../../framework/functions/global/admin/visual-composer.php:3743
+msgid "Media"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:52
+#: ../../framework/functions/global/admin/visual-composer.php:3744
+#: ../../framework/functions/global/admin/customizer/register.php:3420
+msgid "Social"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:53
+#: ../../framework/functions/global/admin/visual-composer.php:3745
+msgid "Structure"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:54
+#: ../../framework/functions/global/admin/visual-composer.php:3746
+#: ../../framework/functions/global/admin/customizer/register.php:1435
+msgid "Typography"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:57
+#: ../../framework/functions/global/admin/visual-composer.php:3669
+#: ../../framework/functions/global/admin/visual-composer.php:3749
+msgid "Text"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:58
+#: ../../framework/functions/global/admin/visual-composer.php:3750
+msgid "Enter your text."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:64
+#: ../../framework/functions/global/admin/visual-composer.php:3756
+msgid "ID"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:65
+#: ../../framework/functions/global/admin/visual-composer.php:3757
+msgid "(Optional) Enter a unique ID."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:70
+#: ../../framework/functions/global/admin/visual-composer.php:3762
+msgid "Class"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:71
+#: ../../framework/functions/global/admin/visual-composer.php:3763
+msgid "(Optional) Enter a unique class name."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:76
+#: ../../framework/functions/global/admin/visual-composer.php:1035
+#: ../../framework/functions/global/admin/visual-composer.php:3768
+#: ../../framework/functions/global/admin/customizer/register.php:2615
+#: ../../framework/functions/global/admin/customizer/register.php:2704
+msgid "Style"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:77
+#: ../../framework/functions/global/admin/visual-composer.php:3769
+msgid "(Optional) Enter inline CSS."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:97
+msgid "Line"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:102
+msgid "Place a horizontal rule in your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:137
+msgid "Gap"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:142
+msgid "Insert a vertical gap in your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:146
+#: ../../framework/functions/global/admin/visual-composer.php:692
+msgid "Size"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:147
+msgid ""
+"Enter in the size of your gap. Pixels, ems, and percentages are all valid "
+"units of measurement."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:185
+msgid "Clear"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:190
+msgid "Clear floated elements in your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:284
+msgid "Blockquote"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:289
+msgid "Include a blockquote in your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:301
+#: ../../framework/functions/global/admin/visual-composer.php:368
+msgid "Cite"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:302
+#: ../../framework/functions/global/admin/visual-composer.php:369
+msgid "Cite the person you are quoting."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:308
+#: ../../framework/functions/global/admin/visual-composer.php:375
+#: ../../framework/functions/global/admin/visual-composer.php:2629
+#: ../../framework/functions/global/admin/visual-composer.php:2945
+#: ../../framework/functions/global/admin/visual-composer.php:3181
+#: ../../framework/functions/global/admin/visual-composer.php:3309
+#: ../../framework/functions/global/admin/visual-composer.php:3500
+#: ../../framework/functions/global/admin/customizer/register.php:2244
+msgid "Alignment"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:309
+msgid "Select the alignment of the blockquote."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:351
+msgid "Pullquote"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:356
+msgid "Include a pullquote in your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:376
+msgid "Select the alignment of the pullquote."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:417
+msgid "Alert"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:422
+msgid "Provide information to users with alerts"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:434
+#: ../../framework/functions/global/admin/visual-composer.php:563
+msgid "Heading"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:435
+msgid "Enter the heading of your alert."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:442
+msgid "Select the alert style."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:455
+msgid "Close"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:456
+msgid "Select to display the close button."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:496
+msgid "Map"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:501
+msgid "Embed a map from a third-party provider"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:505
+#: ../../framework/functions/global/admin/visual-composer.php:1584
+#: ../../framework/functions/global/admin/visual-composer.php:2428
+msgid "Code (See Notes Below)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:506
+#: ../../framework/functions/global/admin/visual-composer.php:1585
+#: ../../framework/functions/global/admin/visual-composer.php:2429
+msgid ""
+"Switch to the \"text\" editor and do not place anything else here other than "
+"your &lsaquo;iframe&rsaquo; or &lsaquo;embed&rsaquo; code."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:513
+#: ../../framework/functions/global/admin/visual-composer.php:1534
+#: ../../framework/functions/global/admin/visual-composer.php:1606
+#: ../../framework/functions/global/admin/visual-composer.php:2124
+msgid "No Container"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:514
+msgid "Select to remove the container around the map."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:554
+msgid "Skill Bar"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:559
+msgid "Include an informational skill bar"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:564
+msgid "Enter the heading of your skill bar."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:570
+msgid "Percent"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:571
+msgid ""
+"Enter the percentage of your skill and be sure to include the percentage "
+"sign (i.e. 90%)."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:577
+msgid "Bar Text"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:578
+msgid ""
+"Enter in some alternate text in place of the percentage inside the skill bar."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:615
+msgid "Code"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:620
+msgid "Add a block of example code to your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:663
+msgid "Button"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:668
+msgid "Add a clickable button to your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:680
+msgid "Shape"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:681
+msgid "Select the button shape."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:693
+msgid "Select the button size."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:707
+#: ../../framework/functions/global/admin/visual-composer.php:1048
+msgid "Float"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:708
+msgid "Optionally float the button."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:719
+msgid "Block"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:720
+msgid "Select to make your button go fullwidth."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:729
+#: ../../framework/functions/global/admin/visual-composer.php:2670
+#: ../../framework/functions/global/admin/visual-composer.php:2985
+msgid "Marketing Circle"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:730
+#: ../../framework/functions/global/admin/visual-composer.php:2671
+#: ../../framework/functions/global/admin/visual-composer.php:2986
+msgid "Select to include a marketing circle around your button."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:739
+msgid "Icon Only"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:740
+msgid "Select if you are only using an icon in your button."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:749
+#: ../../framework/functions/global/admin/visual-composer.php:1084
+#: ../../framework/functions/global/admin/visual-composer.php:2680
+#: ../../framework/functions/global/admin/visual-composer.php:2995
+msgid "Href"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:750
+msgid "Enter in the URL you want your button to link to."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:756
+#: ../../framework/functions/global/admin/visual-composer.php:1091
+#: ../../framework/functions/global/admin/visual-composer.php:1716
+#: ../../framework/functions/global/admin/visual-composer.php:1843
+#: ../../framework/functions/global/admin/visual-composer.php:2543
+#: ../../framework/functions/global/admin/visual-composer.php:2641
+#: ../../framework/functions/global/admin/visual-composer.php:2918
+#: ../../framework/functions/global/admin/visual-composer.php:2956
+#: ../../framework/functions/global/admin/visual-composer.php:3052
+#: ../../framework/functions/global/admin/visual-composer.php:3173
+#: ../../framework/functions/global/admin/visual-composer.php:3247
+#: ../../framework/functions/global/admin/customizer/register.php:2858
+msgid "Title"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:757
+msgid ""
+"Enter in the title attribute you want for your button (will also double as "
+"title for popover or tooltip if you have chosen to display one)."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:763
+#: ../../framework/functions/global/admin/visual-composer.php:1098
+#: ../../framework/functions/global/admin/visual-composer.php:2687
+#: ../../framework/functions/global/admin/visual-composer.php:3002
+msgid "Target"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:764
+msgid "Select to open your button link in a new window."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:773
+#: ../../framework/functions/global/admin/visual-composer.php:1108
+msgid "Info"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:774
+msgid ""
+"Select whether or not you want to add a popover or tooltip to your button."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:785
+#: ../../framework/functions/global/admin/visual-composer.php:1120
+msgid "Info Placement"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:786
+#: ../../framework/functions/global/admin/visual-composer.php:1121
+msgid "Select where you want your popover or tooltip to appear."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:798
+#: ../../framework/functions/global/admin/visual-composer.php:1133
+msgid "Info Trigger"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:799
+#: ../../framework/functions/global/admin/visual-composer.php:1134
+msgid "Select what actions you want to trigger the popover or tooltip."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:810
+#: ../../framework/functions/global/admin/visual-composer.php:1145
+msgid "Info Content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:811
+#: ../../framework/functions/global/admin/visual-composer.php:1146
+msgid "Extra content for the popover."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:817
+#: ../../framework/functions/global/admin/visual-composer.php:1152
+msgid "Lightbox Thumbnail"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:818
+msgid ""
+"Use this option to select a thumbnail for your lightbox thumbnail navigation "
+"or to set an image if you are linking out to a video."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:824
+#: ../../framework/functions/global/admin/visual-composer.php:1159
+msgid "Lightbox Video"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:825
+msgid "Select if you are linking to a video from this button in the lightbox."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:834
+#: ../../framework/functions/global/admin/visual-composer.php:1169
+msgid "Lightbox Caption"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:835
+#: ../../framework/functions/global/admin/visual-composer.php:1170
+msgid "Lightbox caption text."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:920
+msgid "Block Grid"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:925
+msgid "Include a block grid container in your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:933
+msgid "Select how many block grid items you want per row."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:976
+msgid "Block Grid Item"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:981
+msgid "Include a block grid item in your block grid"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1026
+msgid "Image"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1031
+msgid "Include an image in your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1036
+msgid "Select the image style."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1049
+msgid "Optionally float the image."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1060
+msgid "Src"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1061
+msgid "Enter your image."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1067
+#: ../../framework/functions/global/admin/visual-composer.php:2752
+msgid "Alt"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1068
+msgid "Enter in the alt text for your image."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1074
+msgid "Link"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1075
+msgid "Select to wrap your image in an anchor tag."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1085
+msgid ""
+"Enter in the URL you want your image to link to. If using this image for a "
+"lightbox, enter the URL of your media here (e.g. YouTube embed URL, et "
+"cetera). Leave this field blank if you want to link to the image uploaded to "
+"the \"Src\" for your lightbox."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1092
+msgid ""
+"Enter in the title attribute you want for your image (will also double as "
+"title for popover or tooltip if you have chosen to display one)."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1099
+msgid "Select to open your image link in a new window."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1109
+msgid ""
+"Select whether or not you want to add a popover or tooltip to your image."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1153
+msgid ""
+"Use this option to select a different thumbnail for your lightbox thumbnail "
+"navigation or to set an image if you are linking out to a video. Will "
+"default to the \"Src\" image if nothing is set."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1160
+msgid "Select if you are linking to a video from this image in the lightbox."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1207
+msgid "Icon List"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1212
+msgid "Include an icon list in your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1250
+msgid "Icon List Item"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1255
+msgid "Include an icon list item in your icon list"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1270
+msgid "Select your icon."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1422
+msgid "Columnize"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1427
+msgid "Split your text into multiple columns"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1470
+msgid "Video (Self Hosted)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1475
+#: ../../framework/functions/global/admin/visual-composer.php:1580
+msgid "Include responsive video into your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1480
+#: ../../framework/functions/global/admin/visual-composer.php:1593
+msgid "Select your aspect ratio."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1493
+msgid "M4V"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1494
+msgid "Include and .m4v version of your video."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1500
+msgid "OGV"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1501
+msgid ""
+"Include and .ogv version of your video for additional native browser support."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1507
+msgid "Poster Image"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1508
+msgid "Include a poster image for your self-hosted video."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1514
+msgid "Hide Controls"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1515
+msgid "Select to hide the controls on your self-hosted video."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1524
+msgid "Autoplay"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1525
+msgid "Select to automatically play your self-hosted video."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1535
+#: ../../framework/functions/global/admin/visual-composer.php:1607
+msgid "Select to remove the container around the video."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1575
+msgid "Video (Embedded)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1647
+msgid "Accordion"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1652
+msgid "Include an accordion into your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1690
+msgid "Accordion Item"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1695
+msgid "Include an accordion item in your accordion"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1709
+msgid "Parent ID"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1710
+msgid ""
+"Optionally include an ID given to the parent accordion to only allow one "
+"toggle to be open at a time."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1717
+msgid "Include a title for your accordion item."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1723
+msgid "Open"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1724
+msgid "Select for your accordion item to be open by default."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1764
+msgid "Tab Nav"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1769
+msgid "Include a tab nav into your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1776
+msgid "Tab Nav Items Per Row"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1777
+msgid ""
+"If your tab nav is on top, select how many tab nav items you want per row."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1789
+msgid "Tab Nav Position"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1790
+msgid "Select the position of your tab nav."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1832
+msgid "Tab Nav Item"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1837
+msgid "Include a tab nav item into your tab nav"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1844
+msgid "Include a title for your tab nav item."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1850
+#: ../../framework/functions/global/admin/visual-composer.php:1953
+msgid "Active"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1851
+msgid "Select to make this tab nav item active."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1891
+msgid "Tabs"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1896
+msgid "Include a tabs container after your tab nav"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1934
+msgid "Tab"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1939
+msgid "Include a tab into your tabs container"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1954
+msgid "Select to make this tab active."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1987
+msgid "Visibility"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1992
+msgid "Alter content based on screen size"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:1999
+msgid "Visibility Type"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2000
+msgid "Select how you want to hide or show your content."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2050
+msgid "Include a slider in your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2057
+msgid "Animation"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2058
+msgid "Select your slider animation."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2068
+msgid "Slide Time"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2069
+msgid "The amount of time a slide will stay visible in milliseconds."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2076
+msgid "Slide Speed"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2077
+msgid "The amount of time to transition between slides in milliseconds."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2084
+msgid "Slideshow"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2085
+msgid "Select for your slides to advance automatically."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2094
+msgid "Random"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2095
+msgid "Select to randomly display your slides each time the page loads."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2104
+msgid "Control Navigation"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2105
+msgid "Select to display the control navigation."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2114
+msgid "Previous/Next Navigation"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2115
+msgid "Select to display the previous/next navigation."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2125
+msgid "Select to remove the container from your slider."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2165
+msgid "Slide"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2170
+msgid "Include a slide into your slider"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2215
+msgid "Protect"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2220
+msgid "Protect content from non logged in users"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2263
+msgid "Recent Posts"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2268
+msgid "Display your most recent posts"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2272
+msgid "Post Type"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2273
+msgid "Choose between standard posts or portfolio posts."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2283
+msgid "Post Count"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2284
+msgid "Select how many posts to display."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2296
+msgid "Category"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2297
+msgid ""
+"To filter your posts by category, enter in the slug of your desired "
+"category. To filter by multiple categories, enter in your slugs separated by "
+"a comma."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2303
+#: ../../framework/functions/global/admin/visual-composer.php:2857
+msgid "Orientation"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2304
+msgid "Select the orientation or your recent posts."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2314
+msgid "Remove Featured Image"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2315
+msgid "Select to remove the featured image."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2324
+#: ../../framework/functions/global/admin/visual-composer.php:4072
+#: ../../framework/functions/global/admin/visual-composer.php:4138
+msgid "Fade Effect"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2325
+#: ../../framework/functions/global/admin/visual-composer.php:4073
+#: ../../framework/functions/global/admin/visual-composer.php:4139
+msgid "Select to activate the fade effect."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2365
+msgid "Audio (Self Hosted)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2370
+#: ../../framework/functions/global/admin/visual-composer.php:2424
+msgid "Place audio files into your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2374
+msgid "MP3"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2375
+msgid "Include and .mp3 version of your audio."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2381
+msgid "OGA"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2382
+msgid ""
+"Include and .oga version of your audio for additional native browser support."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2419
+msgid "Audio (Embedded)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2467
+msgid "Pricing Table"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2472
+msgid "Include a pricing table in your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2479
+#: ../../framework/functions/global/admin/visual-composer.php:3193
+#: ../../framework/functions/global/admin/customizer/register.php:2667
+#: ../../framework/functions/global/admin/customizer/register.php:2756
+#: ../../framework/functions/global/admin/customizer/register.php:2891
+msgid "Columns"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2480
+msgid "Select how many columns you want for your pricing table."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2524
+msgid "Pricing Table Column"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2529
+msgid "Include a pricing table column"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2544
+msgid "Include a title for your pricing column."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2550
+msgid "Featured"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2551
+msgid "Select to make this your featured offer."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2560
+msgid "Featured Sub Heading"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2561
+msgid "Include a sub heading for your featured column."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2567
+msgid "Currency Symbol"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2568
+msgid "Enter in the currency symbol you want to use."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2574
+#: ../../woocommerce/cart/cart.php:27
+msgid "Price"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2575
+msgid "Enter in the price for this pricing column."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2581
+msgid "Interval"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2582
+msgid "Enter in the time period that this pricing column is for."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2620
+msgid "Callout"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2625
+msgid "Include a marketing callout into your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2630
+msgid "Select the alignment for your callout."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2642
+msgid "Enter the title for your callout."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2648
+#: ../../framework/functions/global/admin/visual-composer.php:2963
+msgid "Message"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2649
+msgid "Enter the message for your callout."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2655
+#: ../../framework/functions/global/admin/visual-composer.php:2970
+#: ../../framework/functions/global/admin/customizer/register.php:2005
+#: ../../framework/functions/global/admin/customizer/register.php:2068
+msgid "Button Text"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2656
+msgid "Enter the text for your callout button."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2662
+#: ../../framework/functions/global/admin/visual-composer.php:2977
+msgid "Button Icon"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2663
+#: ../../framework/functions/global/admin/visual-composer.php:2978
+msgid "Optionally enter the button icon."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2681
+msgid "Enter in the URL you want your callout button to link to."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2688
+msgid "Select to open your callout link button in a new window."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2728
+msgid "Promo"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2733
+msgid "Include a marketing promo in your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2745
+msgid "Promo Image"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2746
+msgid "Include an image for your promo element."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2753
+msgid "Enter in the alt text for your promo image."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2790
+msgid "Responsive Lightbox"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2795
+msgid "Display images in a responsive lightbox"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2799
+#: ../../framework/functions/global/admin/visual-composer.php:3590
+msgid "Selector"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2800
+msgid ""
+"Enter in the selector for your images (e.g. if your class is \"lightbox-img"
+"\" enter \".lightbox-img\"). Set to \".x-img-link\" to automatically setup a "
+"lightbox for all linked [image] shortcodes on your page."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2807
+msgid "Deeplink"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2808
+msgid "Select to activate deeplinking (creates unique link for each image)."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2817
+msgid "Backdrop Opacity"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2818
+msgid ""
+"Enter in the opacity for the backdrop (valid inputs are numbers 0 to 1)."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2825
+msgid "Previous Item Scale"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2826
+msgid ""
+"Enter in the scale for the previous item (valid inputs are numbers 0 to 1)."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2833
+msgid "Previous Item Opacity"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2834
+msgid ""
+"Enter in the opacity for the previous item (valid inputs are numbers 0 to 1)."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2841
+msgid "Next Item Scale"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2842
+msgid "Enter in the scale for the next item (valid inputs are numbers 0 to 1)."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2849
+msgid "Next Item Opacity"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2850
+msgid ""
+"Enter in the opacity for the next item (valid inputs are numbers 0 to 1)."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2858
+msgid "Select the orientation of your lightbox."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2868
+msgid "Thumbnails"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2869
+msgid "Select to activate thumbnail navigation."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2888
+msgid "Author"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2893
+msgid "Include post author information"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2919
+msgid "Enter in a title for your author information."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2936
+msgid "Prompt"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2941
+msgid "Include a marketing prompt into your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2946
+msgid "Select the alignment of your prompt."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2957
+msgid "Enter the title for your prompt."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2964
+msgid "Enter the message for your prompt."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2971
+msgid "Enter the text for your prompt button."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:2996
+msgid "Enter in the URL you want your prompt button to link to."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3003
+msgid "Select to open your prompt button link in a new window."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3043
+msgid "Social Sharing"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3048
+msgid "Include social sharing into your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3053
+msgid "Enter in a title for your social links."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3060
+msgid "Facebook"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3061
+msgid "Select to activate the Facebook sharing link."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3070
+msgid "Twitter"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3071
+msgid "Select to activate the Twitter sharing link."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3080
+msgid "Google Plus"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3081
+msgid "Select to activate the Google Plus sharing link."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3090
+msgid "LinkedIn"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3091
+msgid "Select to activate the LinkedIn sharing link."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3100
+msgid "Pinterest"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3101
+msgid "Select to activate the Pinterest sharing link."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3110
+msgid "Reddit"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3111
+msgid "Select to activate the Reddit sharing link."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3120
+#: ../../woocommerce/single-product-reviews.php:72
+msgid "Email"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3121
+msgid "Select to activate the email sharing link."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3161
+#: ../../framework/plugins/x-shortcodes/functions/shortcodes.php:2027
+msgid "Table of Contents"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3166
+msgid "Include a table of contents in your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3174
+msgid "Set the title of the table of contents."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3182
+msgid "Select the alignment of your table of contents."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3194
+msgid ""
+"Select a column count for your links if you have chosen \"Fullwidth\" as "
+"your alignment."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3236
+msgid "Table of Contents Item"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3241
+msgid "Include a table of contents item"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3248
+msgid "Set the title of the table of contents item."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3255
+msgid "Set the page of the table of contents item."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3292
+msgid "Custom Headline"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3297
+msgid "Include a custom headline in your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3310
+msgid "Select which way to align the custom headline."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3321
+#: ../../framework/functions/global/admin/visual-composer.php:3512
+msgid "Heading Level"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3322
+#: ../../framework/functions/global/admin/visual-composer.php:3513
+msgid "Select which level to use for your heading (e.g. h2)."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3336
+#: ../../framework/functions/global/admin/visual-composer.php:3527
+msgid "Looks Like"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3337
+#: ../../framework/functions/global/admin/visual-composer.php:3528
+msgid "Select which level your heading should look like (e.g. h3)."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3351
+msgid "Accent"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3352
+msgid "Select to activate the heading accent."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3440
+msgid "Container"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3445
+msgid "Include a container in your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3483
+msgid "Feature Headline"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3488
+msgid "Include a feature headline in your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3501
+msgid "Select which way to align the feature headline."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3542
+#: ../../framework/functions/global/admin/customizer/register.php:93
+#: ../../framework/functions/global/admin/customizer/register.php:964
+msgid "Icon"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3543
+msgid "Select the icon to use with your feature headline."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3581
+msgid "Responsive Text"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3586
+msgid "Include responsive text in your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3591
+msgid ""
+"Enter in the selector for your responsive text (e.g. if your class is \"h-"
+"responsive\" enter \".h-responsive\")."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3597
+msgid "Compression"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3598
+msgid ""
+"Enter the compression for your responsive text (adjust up and down to "
+"desired level in small increments)."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3605
+msgid "Minimum Size"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3606
+msgid "Enter the minimum size of your responsive text."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3612
+msgid "Maximum Size"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3613
+msgid "Enter the maximum size of your responsive text."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3634
+msgid "Include a search field in your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3674
+msgid "Include a block of text in your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3781
+#: ../../framework/functions/global/admin/visual-composer.php:3928
+msgid "Content Band"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3786
+#: ../../framework/functions/global/admin/visual-composer.php:3933
+msgid "Place and structure your shortcodes inside of a row"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3799
+#: ../../framework/functions/global/admin/visual-composer.php:3940
+msgid "Inner Container"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3800
+#: ../../framework/functions/global/admin/visual-composer.php:3941
+msgid ""
+"Select to insert a container inside of the content band. Use this instead of "
+"the [container] shortcode for greater flexibility and to contain multiple "
+"columns."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3810
+#: ../../framework/functions/global/admin/visual-composer.php:3951
+msgid "Remove Margin"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3811
+#: ../../framework/functions/global/admin/visual-composer.php:3952
+msgid ""
+"Select to remove the margin from the content band and stack them on top of "
+"each other."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3821
+#: ../../framework/functions/global/admin/visual-composer.php:3962
+msgid "Padding Top"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3822
+#: ../../framework/functions/global/admin/visual-composer.php:3963
+msgid "Set the top padding of the content band (leave blank to keep default)."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3830
+#: ../../framework/functions/global/admin/visual-composer.php:3971
+msgid "Padding Bottom"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3831
+#: ../../framework/functions/global/admin/visual-composer.php:3972
+msgid ""
+"Set the bottom padding of the content band (leave blank to keep default)."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3839
+#: ../../framework/functions/global/admin/visual-composer.php:3980
+msgid "Border"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3840
+#: ../../framework/functions/global/admin/visual-composer.php:3981
+msgid "Select whether or not to display a border on your content band."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3857
+#: ../../framework/functions/global/admin/visual-composer.php:3998
+#: ../../framework/functions/global/admin/customizer/register.php:280
+#: ../../framework/functions/global/admin/customizer/register.php:326
+#: ../../framework/functions/global/admin/customizer/register.php:737
+#: ../../framework/functions/global/admin/customizer/register.php:1071
+msgid "Background Color"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3858
+#: ../../framework/functions/global/admin/visual-composer.php:3999
+msgid ""
+"Select the background color of your content band (leave blank for "
+"\"transparent\")."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3865
+#: ../../framework/functions/global/admin/visual-composer.php:4006
+#: ../../framework/functions/global/admin/customizer/register.php:291
+#: ../../framework/functions/global/admin/customizer/register.php:337
+#: ../../framework/functions/global/admin/customizer/register.php:748
+#: ../../framework/functions/global/admin/customizer/register.php:1082
+msgid "Background Pattern"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3866
+#: ../../framework/functions/global/admin/visual-composer.php:4007
+msgid "Upload a background pattern to your content band."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3873
+#: ../../framework/functions/global/admin/visual-composer.php:4014
+#: ../../framework/functions/global/admin/customizer/register.php:302
+#: ../../framework/functions/global/admin/customizer/register.php:348
+#: ../../framework/functions/global/admin/customizer/register.php:759
+#: ../../framework/functions/global/admin/customizer/register.php:1093
+msgid "Background Image"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3874
+#: ../../framework/functions/global/admin/visual-composer.php:4015
+msgid ""
+"Upload a background image to your content band (this will overwrite your "
+"Background Pattern)."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3881
+#: ../../framework/functions/global/admin/visual-composer.php:4022
+msgid "Parallax"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3882
+#: ../../framework/functions/global/admin/visual-composer.php:4023
+msgid ""
+"Select to activate the parallax effect with background patterns and images."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3892
+#: ../../framework/functions/global/admin/visual-composer.php:4033
+msgid "Background Video"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3893
+#: ../../framework/functions/global/admin/visual-composer.php:4034
+msgid ""
+"Include the path to your background video (this will overwrite both your "
+"Background Pattern and Background Image)."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3900
+#: ../../framework/functions/global/admin/visual-composer.php:4041
+msgid "Background Video Poster"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:3901
+#: ../../framework/functions/global/admin/visual-composer.php:4042
+msgid "Include a poster image for your background video on mobile devices."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:4083
+#: ../../framework/functions/global/admin/visual-composer.php:4149
+msgid "Fade Animation"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:4084
+#: ../../framework/functions/global/admin/visual-composer.php:4150
+msgid "Select the type of fade animation you want to use."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:4098
+#: ../../framework/functions/global/admin/visual-composer.php:4164
+msgid "Fade Animation Offset"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:4099
+#: ../../framework/functions/global/admin/visual-composer.php:4165
+msgid "Set how large you want the offset for your fade animation to be."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:4201
+msgid "Widget Area"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:4205
+msgid "Place one of your widget areas into your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:4217
+msgid "Raw HTML"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:4221
+msgid "Output raw HTML code on your page"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:4230
+msgid "Raw JavaScript"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:4234
+msgid "Output raw JavaScript code on your page"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:4245
+msgid "Slider Revolution"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:4249
+msgid "Place a Slider Revolution slider into your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:4265
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:4269
+msgid "Place one of your contact forms into your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:4290
+msgid "Gravity Form"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:4295
+msgid "Place one of your Gravity Forms into your content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:4300
+msgid "Select which form you would like to display."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:4307
+msgid "Disable Title"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:4308
+msgid "Select to disable the title of your form."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:4317
+msgid "Disable Description"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:4318
+msgid "Select to disable the description of your form."
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:4327
+msgid "Enable AJAX"
+msgstr ""
+
+#: ../../framework/functions/global/admin/visual-composer.php:4328
+msgid "Select to enable the AJAX functionality of your form."
+msgstr ""
+
+#: ../../framework/functions/global/admin/widgets.php:28
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../../framework/functions/global/admin/widgets.php:30
+msgid "Appears on posts and pages that include the sidebar."
+msgstr ""
+
+#: ../../framework/functions/global/admin/widgets.php:41
+msgid "Header Widget Area #"
+msgstr ""
+
+#: ../../framework/functions/global/admin/widgets.php:43
+msgid "Widgetized header area."
+msgstr ""
+
+#: ../../framework/functions/global/admin/widgets.php:55
+msgid "Footer Widget Area #"
+msgstr ""
+
+#: ../../framework/functions/global/admin/widgets.php:57
+msgid "Widgetized footer area."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:40
+msgid "Ultra Light"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:41
+msgid "Ultra Light Italic"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:42
+#: ../../framework/functions/global/admin/customizer/register.php:214
+msgid "Light"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:43
+msgid "Light Italic"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:44
+msgid "Book"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:45
+msgid "Book Italic"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:46
+#: ../../framework/functions/global/admin/customizer/register.php:1981
+msgid "Regular"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:47
+msgid "Regular Italic"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:48
+msgid "Medium"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:49
+msgid "Medium Italic"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:50
+msgid "Semi-Bold"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:51
+msgid "Semi-Bold Italic"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:52
+msgid "Bold"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:53
+msgid "Bold Italic"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:54
+msgid "Extra Bold"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:55
+msgid "Extra Bold Italic"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:56
+msgid "Ultra Bold"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:57
+msgid "Ultra Bold Italic"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:66
+msgid "Stack"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:74
+msgid ""
+"Select the Stack you would like to use and wait a brief moment to view it in "
+"the preview area to the right. Each Stack functions like a unique WordPress "
+"theme, and thus comes with its own set of options, features, layouts, and "
+"more."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:87
+msgid "Select"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:91
+#: ../../framework/functions/global/admin/customizer/register.php:103
+msgid "Integrity"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:92
+#: ../../framework/functions/global/admin/customizer/register.php:530
+msgid "Renew"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:111
+msgid ""
+"Integrity is a beautiful design geared towards businesses and individuals "
+"desiring a site with a more traditional layout, yet with plenty of modern "
+"touches."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:124
+#: ../../framework/functions/global/admin/customizer/register.php:551
+#: ../../framework/functions/global/admin/customizer/register.php:985
+msgid "Site Layout"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:128
+#: ../../framework/functions/global/admin/customizer/register.php:167
+#: ../../framework/functions/global/admin/customizer/register.php:555
+#: ../../framework/functions/global/admin/customizer/register.php:594
+#: ../../framework/functions/global/admin/customizer/register.php:989
+#: ../../framework/functions/global/admin/customizer/register.php:1028
+#: ../../framework/functions/global/admin/customizer/register.php:2635
+#: ../../framework/functions/global/admin/customizer/register.php:2724
+#: ../../framework/functions/global/admin/customizer/register.php:2913
+#: ../../framework/functions/global/admin/customizer/register.php:3138
+msgid "Fullwidth"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:129
+#: ../../framework/functions/global/admin/customizer/register.php:556
+#: ../../framework/functions/global/admin/customizer/register.php:990
+msgid "Boxed"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:139
+#: ../../framework/functions/global/admin/customizer/register.php:566
+#: ../../framework/functions/global/admin/customizer/register.php:1000
+msgid "Site Max Width (px)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:150
+#: ../../framework/functions/global/admin/customizer/register.php:577
+#: ../../framework/functions/global/admin/customizer/register.php:1011
+msgid "Site Width (%)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:161
+#: ../../framework/functions/global/admin/customizer/register.php:588
+#: ../../framework/functions/global/admin/customizer/register.php:1022
+msgid "Content Layout"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:165
+#: ../../framework/functions/global/admin/customizer/register.php:592
+#: ../../framework/functions/global/admin/customizer/register.php:1026
+msgid "Content Left, Sidebar Right"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:166
+#: ../../framework/functions/global/admin/customizer/register.php:593
+#: ../../framework/functions/global/admin/customizer/register.php:1027
+msgid "Sidebar Left, Content Right"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:177
+#: ../../framework/functions/global/admin/customizer/register.php:604
+msgid "Content Width (%)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:186
+#: ../../framework/functions/global/admin/customizer/register.php:613
+msgid "Design Options"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:197
+msgid ""
+"The greatness of Integrity's design is in its simplicity. The look and feel "
+"of your site will change dramatically based on the choices selected for a "
+"couple options."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:210
+msgid "Design"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:215
+msgid "Dark"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:225
+msgid "Enable Topbar Transparency"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:236
+msgid "Enable Navbar Transparency"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:247
+msgid "Enable Footer Transparency"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:256
+#: ../../framework/functions/global/admin/customizer/register.php:713
+#: ../../framework/functions/global/admin/customizer/register.php:1047
+msgid "Background Options"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:267
+#: ../../framework/functions/global/admin/customizer/register.php:724
+#: ../../framework/functions/global/admin/customizer/register.php:1058
+msgid ""
+"The \"Background Pattern\" setting will override the \"Background Color\" "
+"unless the image used is transparent, and the \"Background Image\" option "
+"will take precedence over both. The \"Background Image Fade (ms)\" option "
+"allows you to set a time in milliseconds for your image to fade in. To "
+"disable this feature, set the value to \"0.\""
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:315
+#: ../../framework/functions/global/admin/customizer/register.php:361
+#: ../../framework/functions/global/admin/customizer/register.php:772
+#: ../../framework/functions/global/admin/customizer/register.php:1106
+msgid "Background Image Fade (ms)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:370
+#: ../../framework/functions/global/admin/customizer/register.php:842
+#: ../../framework/functions/global/admin/customizer/register.php:1115
+msgid "Blog Options"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:381
+msgid ""
+"Enabling the blog header will turn on the area above your posts on the index "
+"page that contains your title and subtitle. Disabling it will result in more "
+"content being visible above the fold."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:394
+msgid "Enable Blog Header"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:405
+#: ../../framework/functions/global/admin/customizer/register.php:866
+msgid "Blog Title"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:416
+msgid "Blog Subtitle"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:425
+msgid "Portfolio Options"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:436
+msgid ""
+"Enabling portfolio index sharing will turn on social sharing links for each "
+"post on the portfolio index page. Activate and deactivate individual sharing "
+"links underneath the main Portfolio section."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:449
+msgid "Sort Button Text"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:460
+msgid "Enable Portfolio Index Sharing"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:471
+#: ../../framework/functions/global/admin/customizer/register.php:927
+#: ../../framework/functions/global/admin/customizer/register.php:1398
+msgid "Shop Options"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:482
+msgid ""
+"Enabling the shop header will turn on the area above your posts on the index "
+"page that contains your title and subtitle. Disabling it will result in more "
+"content being visible above the fold."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:495
+msgid "Enable Shop Header"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:506
+#: ../../framework/functions/global/admin/customizer/register.php:951
+#: ../../framework/functions/global/admin/customizer/register.php:1422
+msgid "Shop Title"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:517
+msgid "Shop Subtitle"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:538
+msgid ""
+"Renew features a gorgeous look and feel that lends a clean, modern look to "
+"your site. All of your content will take center stage with Renew in place."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:624
+msgid ""
+"Renew's flat design is built around a simple interface and bold colors. Use "
+"your palette to set the colors for some main structural elements of your "
+"site below."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:637
+msgid "Topbar Background"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:650
+msgid "Navbar Background"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:663
+msgid "Mobile Button Color"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:676
+msgid "Mobile Button Background"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:689
+msgid "Mobile Button Background Hover"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:702
+msgid "Footer Background"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:781
+msgid "Typography Options"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:792
+msgid ""
+"Here you can set the colors for your topbar and footer. Get creative, the "
+"possibilities are endless."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:805
+msgid "Topbar Links and Text"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:818
+msgid "Topbar Links Hover"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:831
+msgid "Footer Links and Text"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:853
+msgid ""
+"The entry icon color is for the post icons to the left of each title. "
+"Selecting \"Creative\" under the \"Entry Icon Position\" setting will allow "
+"you to align your entry icons in a different manner on your posts index page "
+"when \"Content Left, Sidebar Right\" or \"Fullwidth\" are selected as your "
+"\"Content Layout\" and when your blog \"Style\" is set to \"Standard.\" This "
+"feature is intended to be paired with a \"Boxed\" layout."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:877
+msgid "Entry Icons"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:890
+msgid "Entry Icon Position"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:894
+#: ../../framework/functions/global/admin/customizer/register.php:2619
+#: ../../framework/functions/global/admin/customizer/register.php:2708
+msgid "Standard"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:895
+msgid "Creative"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:905
+msgid "Entry Icon Horizontal Alignment (%)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:916
+msgid "Entry Icon Vertical Alignment (px)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:938
+#: ../../framework/functions/global/admin/customizer/register.php:1409
+msgid ""
+"Provide a title you would like to use for your shop. This will show up on "
+"the index page as well as in your breadcrumbs."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:972
+msgid ""
+"Icon features a stunning, modern, fullscreen design with a unique fixed "
+"sidebar layout that scolls with users on larger screens as you move down the "
+"page. The end result is attractive, app-like, and intuitive."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1038
+msgid "Set Sidebar Width (px)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1126
+msgid ""
+"Set unique colors for each blog post type if you so desire. You can enable "
+"or disable any combination of colors you want to fit your design style."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1139
+msgid "Enable Standard Post Custom Colors"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1150
+msgid "Standard Post Text"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1163
+msgid "Standard Post Background"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1176
+msgid "Enable Image Post Custom Colors"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1187
+msgid "Image Post Text"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1200
+msgid "Image Post Background"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1213
+msgid "Enable Gallery Post Custom Colors"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1224
+msgid "Gallery Post Text"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1237
+msgid "Gallery Post Background"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1250
+msgid "Enable Video Post Custom Colors"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1261
+msgid "Video Post Text"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1274
+msgid "Video Post Background"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1287
+msgid "Enable Audio Post Custom Colors"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1298
+msgid "Audio Post Text"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1311
+msgid "Audio Post Background"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1324
+msgid "Enable Quote Post Custom Colors"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1335
+msgid "Quote Post Text"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1348
+msgid "Quote Post Background"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1361
+msgid "Enable Link Post Custom Colors"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1372
+msgid "Link Post Text"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1385
+msgid "Link Post Background"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1447
+msgid ""
+"X provides you with full control over your site's typography. Remember to "
+"check the box for \"Enable Custom Fonts\" to set your own individual fonts "
+"for headings, body copy, et cetera."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1460
+msgid "Enable Custom Fonts"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1471
+msgid "Enable Subsets"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1482
+msgid "Cyrillic"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1493
+msgid "Greek"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1504
+msgid "Vietnamese"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1513
+#: ../../framework/functions/global/admin/customizer/register.php:2200
+msgid "Logo"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1526
+msgid "Logo Font"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1538
+msgid "Enable Logo Font Color"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1549
+msgid "Logo Font Color"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1562
+msgid "Logo Font Size (px)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1573
+msgid "Logo Font Weight"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1585
+msgid "Logo Letter Spacing (px)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1596
+#: ../../framework/functions/global/admin/customizer/register.php:1679
+#: ../../framework/functions/global/admin/customizer/register.php:1760
+msgid "Enable Uppercase"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1605
+#: ../../framework/functions/global/admin/customizer/register.php:2156
+msgid "Navbar"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1618
+msgid "Navbar Font"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1630
+msgid "Navbar Links"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1643
+msgid "Navbar Links Hover"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1656
+msgid "Navbar Font Size (px)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1667
+msgid "Navbar Font Weight"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1688
+msgid "Headings"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1701
+msgid "Headings Font"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1713
+msgid "Enable Headings Font Color"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1724
+msgid "Headings Font Color"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1737
+msgid "Headings Font Weight"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1749
+msgid "Headings Letter Spacing (px)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1771
+msgid "Enable Widget Icons"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1780
+msgid "Body and Content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1791
+msgid ""
+"\"Body Font Size (px)\" will affect the sizing of all copy outside of a post "
+"or page content area. \"Content Font Size (px)\" will affect the sizing of "
+"all copy inside a post or page content area. Headings are set with "
+"percentages and sized proportionally to these settings."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1804
+msgid "Body Font"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1816
+msgid "Enable Body Font Color"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1827
+msgid "Body Font Color"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1840
+msgid "Body Font Size (px)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1851
+msgid "Content Font Size (px)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1862
+msgid "Body Font Weight"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1872
+#: ../../framework/functions/global/admin/customizer/register.php:1896
+msgid "Site Links"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1883
+msgid ""
+"Site link colors are also used as accents for various elements throughout "
+"your site, so make sure to select something you really enjoy and keep an eye "
+"out for how it affects your design."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1909
+msgid "Site Links Hover"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1922
+msgid "Buttons"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1930
+msgid ""
+"Retina ready, limitless colors, and multiple shapes. The buttons available "
+"in X are fun to use, simple to implement, and look great on all devices no "
+"matter the size."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1943
+msgid "Button Style"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1947
+msgid "3D"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1948
+msgid "Flat"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1949
+msgid "Transparent"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1959
+msgid "Button Shape"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1963
+msgid "Square"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1964
+msgid "Rounded"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1965
+msgid "Pill"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1975
+msgid "Button Size"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1979
+msgid "Mini"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1980
+msgid "Small"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1982
+msgid "Large"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1983
+msgid "Extra Large"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1984
+msgid "Jumbo"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:1992
+msgid "Colors"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2018
+#: ../../framework/functions/global/admin/customizer/register.php:2081
+msgid "Button Background"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2031
+#: ../../framework/functions/global/admin/customizer/register.php:2094
+msgid "Button Border"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2044
+#: ../../framework/functions/global/admin/customizer/register.php:2107
+msgid "Button Bottom"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2055
+msgid "Hover Colors"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2120
+msgid "Header"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2128
+msgid ""
+"Never before has such flexibility been offered to WordPress users for their "
+"site's header. It's one of the first things your visitors see when they come "
+"to your site, now you can make it look exactly how you want."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2141
+msgid "Navbar Position"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2145
+msgid "Static Top"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2146
+msgid "Fixed Top"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2147
+msgid "Fixed Left"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2148
+msgid "Fixed Right"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2167
+msgid ""
+"\"Navbar Top Height (px)\" must still be set even when using \"Fixed Left\" "
+"or \"Fixed Right\" positioning because on tablet and mobile devices, the "
+"menu is pushed to the top."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2180
+msgid "Navbar Top Height (px)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2191
+msgid "Navbar Side Width (px)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2211
+msgid ""
+"To make your logo retina ready, enter in the width of your uploaded image in "
+"the \"Logo Width (px)\" field and we'll take care of all the calculations "
+"for you. If you want your logo to stay the original size that was uploaded, "
+"leave the field blank."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2222
+msgid "Upload Your Logo"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2235
+msgid "Logo Width (px)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2255
+msgid ""
+"\"Navbar Top Logo Alignment (px)\" and \"Navbar Top Link Alignment (px)\" "
+"must still be set even when using \"Fixed Left\" or \"Fixed Right\" "
+"positioning because on tablet and mobile devices, the menu is pushed to the "
+"top."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2268
+msgid "Navbar Top Logo Alignment (px)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2279
+msgid "Navbar Top Link Alignment (px)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2290
+msgid "Navbar Side Logo Alignment (px)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2301
+msgid "Navbar Side Link Alignment (px)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2312
+msgid "Mobile Navbar Button Alignment (px)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2327
+msgid "Mobile Navbar Button Size (px)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2336
+msgid "Widgetbar"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2353
+msgid "None (Disables the Widgetbar)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2354
+#: ../../framework/functions/global/admin/customizer/register.php:2465
+#: ../../framework/functions/global/admin/customizer/register.php:2895
+#: ../../framework/functions/global/admin/customizer/register.php:3152
+#: ../../framework/functions/global/admin/customizer/register.php:3257
+#: ../../framework/functions/global/admin/customizer/register.php:3296
+#: ../../framework/functions/global/admin/customizer/register.php:3357
+msgid "One"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2355
+#: ../../framework/functions/global/admin/customizer/register.php:2466
+#: ../../framework/functions/global/admin/customizer/register.php:2671
+#: ../../framework/functions/global/admin/customizer/register.php:2760
+#: ../../framework/functions/global/admin/customizer/register.php:2896
+#: ../../framework/functions/global/admin/customizer/register.php:3153
+#: ../../framework/functions/global/admin/customizer/register.php:3258
+#: ../../framework/functions/global/admin/customizer/register.php:3297
+#: ../../framework/functions/global/admin/customizer/register.php:3358
+msgid "Two"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2356
+#: ../../framework/functions/global/admin/customizer/register.php:2467
+#: ../../framework/functions/global/admin/customizer/register.php:2672
+#: ../../framework/functions/global/admin/customizer/register.php:2761
+#: ../../framework/functions/global/admin/customizer/register.php:2897
+#: ../../framework/functions/global/admin/customizer/register.php:3154
+#: ../../framework/functions/global/admin/customizer/register.php:3259
+#: ../../framework/functions/global/admin/customizer/register.php:3298
+#: ../../framework/functions/global/admin/customizer/register.php:3359
+msgid "Three"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2357
+#: ../../framework/functions/global/admin/customizer/register.php:2468
+#: ../../framework/functions/global/admin/customizer/register.php:2898
+#: ../../framework/functions/global/admin/customizer/register.php:3155
+#: ../../framework/functions/global/admin/customizer/register.php:3260
+#: ../../framework/functions/global/admin/customizer/register.php:3299
+#: ../../framework/functions/global/admin/customizer/register.php:3360
+msgid "Four"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2367
+msgid "Widgetbar Button Background"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2380
+msgid "Widgetbar Button Background Hover"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2391
+msgid "Miscellaneous"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2404
+msgid "Enable Topbar"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2415
+msgid "Topbar Content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2428
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2439
+msgid "Footer"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2447
+msgid ""
+"Easily adjust your site's footer by setting your widget areas to the "
+"specific number desired and turning on or off various parts as needed. "
+"You're never forced to use a layout you don't need with X."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2460
+msgid "Footer Widget Areas"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2464
+msgid "None (Disables the Top Footer)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2478
+msgid "Enable Bottom Footer"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2489
+msgid "Enable Footer Menu"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2500
+msgid "Enable Footer Social"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2511
+msgid "Enable Footer Content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2522
+msgid "Footer Content"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2533
+msgid "Scroll Top Anchor"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2544
+msgid ""
+"Activating the scroll top anchor will output a link that appears in the "
+"bottom corner of your site for users to click on that will return them to "
+"the top of your website. Once activated, set the value (as a percentage) for "
+"how far down the page your users will need to scroll for it to appear. For "
+"example, if you want the scroll top anchor to appear once your users have "
+"scrolled halfway down your page, you would enter \"50\" into the field."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2557
+msgid "Enable the Scroll Top Anchor"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2568
+msgid "Scroll Top Anchor Position"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2572
+#: ../../framework/functions/global/admin/customizer/register.php:3407
+msgid "Left"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2573
+#: ../../framework/functions/global/admin/customizer/register.php:3408
+msgid "Right"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2583
+msgid "When to Display the Scroll Top Anchor (%)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2594
+msgid "Blog"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2602
+msgid ""
+"Adjust the style and layout of your blog using the settings below. This will "
+"only affect the posts index page of your blog and will not alter any archive "
+"or search results pages. The \"Layout\" option allows you to keep your "
+"sidebar on your posts index page if you have already selected \"Content "
+"Left, Sidebar Right\" or \"Sidebar Left, Content Right\" for you \"Content "
+"Layout\" option, or remove the sidebar completely if desired."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2620
+#: ../../framework/functions/global/admin/customizer/register.php:2709
+msgid "Masonry"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2630
+#: ../../framework/functions/global/admin/customizer/register.php:2719
+#: ../../framework/functions/global/admin/customizer/register.php:2867
+#: ../../framework/functions/global/admin/customizer/register.php:2908
+msgid "Layout"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2634
+#: ../../framework/functions/global/admin/customizer/register.php:2723
+#: ../../framework/functions/global/admin/customizer/register.php:2912
+#: ../../framework/functions/global/admin/customizer/register.php:3137
+msgid "Keep Sidebar"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2643
+msgid "Blog Masonry"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2654
+#: ../../framework/functions/global/admin/customizer/register.php:2743
+msgid ""
+"Select how many columns you would like for your masonry layout. It is "
+"strongly recommended that you remove the sidebar for your blog if you plan "
+"on using the three column layout due to size constraints."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2680
+msgid "Archives"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2691
+msgid ""
+"Adjust the style and layout of your archive pages using the settings below. "
+"The \"Layout\" option allows you to keep your sidebar on your posts index "
+"page if you have already selected \"Content Left, Sidebar Right\" or "
+"\"Sidebar Left, Content Right\" for you \"Content Layout\" option, or remove "
+"the sidebar completely if desired."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2732
+msgid "Archive Masonry"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2780
+msgid ""
+"Selecting the \"Enable Full Post Content on Index\" option below will allow "
+"the entire contents of your posts to be shown on the post index pages for "
+"all stacks. Deselecting this option will allow you to set the length of your "
+"excerpt."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2793
+#: ../../framework/functions/global/admin/customizer/register.php:2956
+msgid "Enable Post Meta"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2804
+msgid "Enable Full Post Content on Index"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2815
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2834
+msgid ""
+"Setting your custom portfolio slug allows you to create a unique URL "
+"structure that fits your needs. When you update it, remember to save your "
+"Permalinks again to avoid any potential errors. Finally, go to \"Appearance"
+"\" > \"Menus\" and write a custom link to the new slug to take people to "
+"your portfolio."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2847
+msgid "Custom URL Slug"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2878
+msgid ""
+"The \"Layout\" option allows you to keep your sidebar on your portfolio "
+"listing page if you have already selected \"Content Left, Sidebar Right\" or "
+"\"Sidebar Left, Content Right\" for you \"Content Layout\" option, or remove "
+"the sidebar completely if desired."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2934
+#: ../../framework/functions/global/admin/customizer/register.php:3165
+msgid "Posts Per Page"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2945
+msgid "Enable Cropped Featured Images"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2965
+msgid "Labels"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2978
+msgid "Tag List Title"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:2989
+msgid "Launch Project Title"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3000
+msgid "Launch Project Button Text"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3011
+msgid "Share Project Title"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3020
+msgid "Sharing"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3033
+msgid "Enable Facebook Sharing Link"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3044
+msgid "Enable Twitter Sharing Link"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3055
+msgid "Enable Google+ Sharing Link"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3066
+msgid "Enable LinkedIn Sharing Link"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3077
+msgid "Enable Pinterest Sharing Link"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3088
+msgid "Enable Reddit Sharing Link"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3099
+msgid "Enable Email Sharing Link"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3112
+msgid "WooCommerce"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3120
+msgid ""
+"This section handles all options regarding your WooCommerce setup. Select "
+"your content layout, product columns, along with plenty of other options to "
+"get your shop up and running. The \"Shop Layout\" option allows you to keep "
+"your sidebar on your shop page if you have already selected \"Content Left, "
+"Sidebar Right\" or \"Sidebar Left, Content Right\" for you \"Content Layout"
+"\" option, or remove the sidebar completely if desired."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3133
+msgid "Shop Layout"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3148
+msgid "Shop Columns"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3174
+msgid "Single Product"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3185
+msgid ""
+"All options available in this section pertain to the layout of your "
+"individual product pages. Simply enable or disable the sections you want to "
+"use to achieve the layout you want."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3198
+msgid "Enable Product Tabs"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3209
+msgid "Enable Description Tab"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3220
+msgid "Enable Additional Information Tab"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3231
+msgid "Enable Reviews Tab"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3242
+msgid "Enable Related Products"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3253
+msgid "Related Product Columns"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3270
+msgid "Related Product Post Count"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3281
+msgid "Enable Upsells"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3292
+msgid "Upsell Columns"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3309
+msgid "Upsell Post Count"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3318
+msgid "Cart"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3329
+msgid ""
+"All options available in this section pertain to the layout of your cart "
+"page. Simply enable or disable the sections you want to use to achieve the "
+"layout you want."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3342
+msgid "Enable Cross Sells"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3353
+msgid "Cross Sell Columns"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3370
+msgid "Cross Sell Post Count"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3379
+msgid "Widgets"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3390
+msgid ""
+"Select the placement of your product images in the various WooCommerce "
+"widgets that provide them. Right alignment is better if your items have "
+"longer titles to avoid staggered word wrapping."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3403
+msgid "Image Alignment"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3428
+msgid ""
+"Set the URLs for your social media profiles here to be used in the topbar "
+"and bottom footer. Adding in a link will make its respective icon show up "
+"without needing to do anything else. Keep in mind that these sections are "
+"not necessarily intended for a lot of items, so adding all icons could "
+"create some layout issues. It is typically best to keep your selections here "
+"to a minimum for structural purposes and for usability purposes so you do "
+"not overwhelm your visitors."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3441
+msgid "Facebook Profile URL"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3452
+msgid "Twitter Profile URL"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3463
+msgid "Google+ Profile URL"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3474
+msgid "LinkedIn Profile URL"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3485
+msgid "Foursquare Profile URL"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3496
+msgid "YouTube Profile URL"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3507
+msgid "Vimeo Profile URL"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3518
+msgid "Instagram Profile URL"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3529
+msgid "Pinterest Profile URL"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3540
+msgid "Dribbble Profile URL"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3551
+msgid "Behance Profile URL"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3562
+msgid "RSS Feed URL"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3573
+msgid "Site Icons"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3581
+msgid ""
+"Easily manage your favicon for desktop, touch icon for mobile devices, and "
+"tile icon for the Windows 8 Metro interface in this section. If an image is "
+"not set, nothing will be output for that particular icon type. When setting "
+"the path to your favicon, make sure you are using the \".ico\" format. A "
+"152x152 PNG should be used for your touch icon, and a 144x144 PNG should be "
+"used for your tile icon. The color you set for your tile icon will be used "
+"behind your image."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3594
+msgid "Favicon (Set Path to Image Below)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3603
+msgid "Touch Icon (iOS and Android)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3614
+msgid "Tile Icon (Microsoft)"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3627
+msgid "Tile Icon Background Color"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3640
+msgid "Custom"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3648
+msgid ""
+"Quickly add custom CSS or JavaScript to your site without any complicated "
+"setups. Ideal for minor style alterations or small snippets like Google "
+"Analytics. Do not place any &lt;style&gt; or &lt;script&gt; tags in these "
+"areas as they are already added for your convenience."
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3661
+msgid "CSS"
+msgstr ""
+
+#: ../../framework/functions/global/admin/customizer/register.php:3674
+msgid "JavaScript"
+msgstr ""
+
+#: ../../framework/functions/global/widgets/dribbble.php:22
+msgid "Show off your latest Dribbble shots"
+msgstr ""
+
+#: ../../framework/functions/global/widgets/dribbble.php:24
+msgid "X Dribbble Widget"
+msgstr ""
+
+#: ../../framework/functions/global/widgets/dribbble.php:88
+#: ../../framework/functions/global/widgets/flickr.php:92
+msgid "Title:"
+msgstr ""
+
+#: ../../framework/functions/global/widgets/dribbble.php:93
+msgid "Username:"
+msgstr ""
+
+#: ../../framework/functions/global/widgets/dribbble.php:98
+msgid "Number of Shots:"
+msgstr ""
+
+#: ../../framework/functions/global/widgets/flickr.php:22
+msgid "Display your latest Flickr photos"
+msgstr ""
+
+#: ../../framework/functions/global/widgets/flickr.php:24
+msgid "X Flickr Widget"
+msgstr ""
+
+#: ../../framework/functions/global/widgets/flickr.php:96
+msgid "Your Flickr User ID:"
+msgstr ""
+
+#: ../../framework/functions/global/widgets/flickr.php:101
+msgid "No. of Photos:"
+msgstr ""
+
+#: ../../framework/plugins/x-shortcodes/functions/shortcodes.php:1716
+msgid "About the Author"
+msgstr ""
+
+#: ../../framework/plugins/x-shortcodes/functions/shortcodes.php:1963
+msgid "Share this Post"
+msgstr ""
+
+#: ../../framework/plugins/x-shortcodes/functions/shortcodes.php:1964
+#: ../../framework/views/global/_entry-share.php:28
+msgid "Share on Facebook"
+msgstr ""
+
+#: ../../framework/plugins/x-shortcodes/functions/shortcodes.php:1965
+#: ../../framework/views/global/_entry-share.php:29
+msgid "Share on Twitter"
+msgstr ""
+
+#: ../../framework/plugins/x-shortcodes/functions/shortcodes.php:1966
+#: ../../framework/views/global/_entry-share.php:30
+msgid "Share on Google+"
+msgstr ""
+
+#: ../../framework/plugins/x-shortcodes/functions/shortcodes.php:1967
+#: ../../framework/views/global/_entry-share.php:31
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: ../../framework/plugins/x-shortcodes/functions/shortcodes.php:1968
+#: ../../framework/views/global/_entry-share.php:32
+msgid "Share on Pinterest"
+msgstr ""
+
+#: ../../framework/plugins/x-shortcodes/functions/shortcodes.php:1969
+#: ../../framework/views/global/_entry-share.php:33
+msgid "Share on Reddit"
+msgstr ""
+
+#: ../../framework/plugins/x-shortcodes/functions/shortcodes.php:1970
+#: ../../framework/views/global/_entry-share.php:34
+msgid "Hey, thought you might enjoy this! Check it out when you have a chance:"
+msgstr ""
+
+#: ../../framework/plugins/x-shortcodes/functions/shortcodes.php:1970
+#: ../../framework/views/global/_entry-share.php:34
+msgid "Share via Email"
+msgstr ""
+
+#: ../../framework/views/global/_content-404.php:11
+msgid ""
+"The page you are looking for is no longer here, or never existed in the "
+"first place (bummer). You can try searching for what you are looking for "
+"using the form below. If that still doesn't provide the results you are "
+"looking for, you can always start over from the home page."
+msgstr ""
+
+#: ../../framework/views/global/_content-none.php:14
+msgid "Nothing to Show Right Now"
+msgstr ""
+
+#: ../../framework/views/global/_content-none.php:17
+msgid ""
+"It appears whatever you were looking for is no longer here or perhaps wasn't "
+"here to begin with. You might want to try starting over from the homepage to "
+"see if you can find what you're after from there."
+msgstr ""
+
+#: ../../framework/views/global/_header-widget-areas.php:38
+msgid "Toggle the Widgetbar"
+msgstr ""
+
+#: ../../framework/views/global/_navbar.php:27
+msgid "Navigation"
+msgstr ""
+
+#: ../../framework/views/icon/content-link.php:20
+#: ../../framework/views/icon/content-link.php:25
+#: ../../framework/views/integrity/content-link.php:22
+#: ../../framework/views/integrity/content-link.php:27
+#: ../../framework/views/renew/content-link.php:19
+#: ../../framework/views/renew/content-link.php:24
+#, php-format
+msgid "Shared link from post: \"%s\""
+msgstr ""
+
+#: ../../framework/views/icon/wp-archive-x-portfolio.php:19
+#: ../../framework/views/integrity/_landmark-header.php:132
+#: ../../framework/views/renew/_landmark-header.php:111
+msgid "All"
+msgstr ""
+
+#: ../../framework/views/icon/wp-comments.php:42
+#: ../../framework/views/integrity/wp-comments.php:42
+#: ../../framework/views/renew/wp-comments.php:50
+msgid "Comment navigation"
+msgstr ""
+
+#: ../../framework/views/icon/wp-comments.php:43
+#: ../../framework/views/integrity/wp-comments.php:43
+#: ../../framework/views/renew/wp-comments.php:51
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../../framework/views/icon/wp-comments.php:44
+#: ../../framework/views/integrity/wp-comments.php:44
+#: ../../framework/views/renew/wp-comments.php:52
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../../framework/views/icon/wp-comments.php:49
+#: ../../framework/views/integrity/wp-comments.php:49
+#: ../../framework/views/renew/wp-comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: ../../framework/views/icon/wp-comments.php:58
+#: ../../framework/views/integrity/wp-comments.php:58
+#: ../../framework/views/renew/wp-comments.php:66
+msgid "Submit"
+msgstr ""
+
+#: ../../framework/views/integrity/_landmark-header.php:22
+#: ../../framework/views/renew/_landmark-header.php:44
+msgid "Search Results"
+msgstr ""
+
+#: ../../framework/views/integrity/_landmark-header.php:23
+msgid "Below you'll see everything we could locate for your search of "
+msgstr ""
+
+#: ../../framework/views/integrity/_landmark-header.php:33
+#: ../../framework/views/integrity/_landmark-header.php:50
+#: ../../framework/views/renew/_landmark-header.php:53
+msgid "Category Archive"
+msgstr ""
+
+#: ../../framework/views/integrity/_landmark-header.php:34
+msgid "Below you'll find a list of all posts that have been categorized as "
+msgstr ""
+
+#: ../../framework/views/integrity/_landmark-header.php:51
+msgid "Below you'll find a list of all items that have been categorized as "
+msgstr ""
+
+#: ../../framework/views/integrity/_landmark-header.php:67
+#: ../../framework/views/integrity/_landmark-header.php:84
+#: ../../framework/views/renew/_landmark-header.php:66
+msgid "Tag Archive"
+msgstr ""
+
+#: ../../framework/views/integrity/_landmark-header.php:68
+msgid "Below you'll find a list of all posts that have been tagged as "
+msgstr ""
+
+#: ../../framework/views/integrity/_landmark-header.php:85
+msgid "Below you'll find a list of all items that have been tagged as "
+msgstr ""
+
+#: ../../framework/views/integrity/_landmark-header.php:97
+#: ../../framework/views/renew/_landmark-header.php:74
+msgid "Oops!"
+msgstr ""
+
+#: ../../framework/views/integrity/_landmark-header.php:98
+msgid "You blew up the Internet. "
+msgstr ""
+
+#: ../../framework/views/integrity/_landmark-header.php:104
+#: ../../framework/views/renew/_landmark-header.php:78
+msgid "Post Archive by Year"
+msgstr ""
+
+#: ../../framework/views/integrity/_landmark-header.php:105
+#: ../../framework/views/integrity/_landmark-header.php:112
+#: ../../framework/views/integrity/_landmark-header.php:119
+msgid "Below you'll find a list of all posts from "
+msgstr ""
+
+#: ../../framework/views/integrity/_landmark-header.php:111
+#: ../../framework/views/renew/_landmark-header.php:82
+msgid "Post Archive by Month"
+msgstr ""
+
+#: ../../framework/views/integrity/_landmark-header.php:118
+#: ../../framework/views/renew/_landmark-header.php:86
+msgid "Post Archive by Day"
+msgstr ""
+
+#: ../../framework/views/renew/wp-comments.php:32
+#, php-format
+msgid "One Comment on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: ../../woocommerce/single-product-reviews.php:26
+#, php-format
+msgid "%s review for %s"
+msgstr ""
+
+#: ../../woocommerce/single-product-reviews.php:28
+msgid "Reviews"
+msgstr ""
+
+#: ../../woocommerce/single-product-reviews.php:49
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../../woocommerce/single-product-reviews.php:64
+msgid "Add a Review"
+msgstr ""
+
+#: ../../woocommerce/single-product-reviews.php:64
+msgid "Be the First to Review"
+msgstr ""
+
+#: ../../woocommerce/single-product-reviews.php:69
+msgid "Name"
+msgstr ""
+
+#: ../../woocommerce/single-product-reviews.php:75
+msgid "Submit Review"
+msgstr ""
+
+#: ../../woocommerce/single-product-reviews.php:81
+msgid "Rating"
+msgstr ""
+
+#: ../../woocommerce/single-product-reviews.php:82
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../../woocommerce/single-product-reviews.php:83
+msgid "Perfect"
+msgstr ""
+
+#: ../../woocommerce/single-product-reviews.php:84
+msgid "Good"
+msgstr ""
+
+#: ../../woocommerce/single-product-reviews.php:85
+msgid "Average"
+msgstr ""
+
+#: ../../woocommerce/single-product-reviews.php:86
+msgid "Not that bad"
+msgstr ""
+
+#: ../../woocommerce/single-product-reviews.php:87
+msgid "Very Poor"
+msgstr ""
+
+#: ../../woocommerce/single-product-reviews.php:91
+msgid "Your Review"
+msgstr ""
+
+#: ../../woocommerce/single-product-reviews.php:101
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: ../../woocommerce/cart/cart-totals.php:17
+msgid "Cart Totals"
+msgstr ""
+
+#: ../../woocommerce/cart/cart-totals.php:22
+msgid "Cart Subtotal"
+msgstr ""
+
+#: ../../woocommerce/cart/cart-totals.php:28
+#: ../../woocommerce/cart/cart-totals.php:64
+msgid "Coupon:"
+msgstr ""
+
+#: ../../woocommerce/cart/cart-totals.php:72
+msgid "Order Total"
+msgstr ""
+
+#: ../../woocommerce/cart/cart-totals.php:84
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: ../../woocommerce/cart/cart-totals.php:87
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: ../../woocommerce/cart/cart.php:26
+#: ../../woocommerce/order/order-details.php:21
+msgid "Product"
+msgstr ""
+
+#: ../../woocommerce/cart/cart.php:28
+msgid "Quantity"
+msgstr ""
+
+#: ../../woocommerce/cart/cart.php:29
+#: ../../woocommerce/order/order-details.php:22
+msgid "Total"
+msgstr ""
+
+#: ../../woocommerce/cart/cart.php:47
+msgid "Remove this item"
+msgstr ""
+
+#: ../../woocommerce/cart/cart.php:72
+msgid "Available on backorder"
+msgstr ""
+
+#: ../../woocommerce/cart/cart.php:109
+msgid "Coupon"
+msgstr ""
+
+#: ../../woocommerce/cart/cart.php:109
+msgid "Coupon code"
+msgstr ""
+
+#: ../../woocommerce/cart/cart.php:109
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../../woocommerce/cart/cart.php:115
+msgid "Update Cart"
+msgstr ""
+
+#: ../../woocommerce/cart/cart.php:115
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: ../../woocommerce/cart/cross-sells.php:40
+msgid "You May Be Interested In&hellip;"
+msgstr ""
+
+#: ../../woocommerce/cart/shipping-calculator.php:21
+msgid "Calculate Shipping"
+msgstr ""
+
+#: ../../woocommerce/cart/shipping-calculator.php:27
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: ../../woocommerce/cart/shipping-calculator.php:44
+#: ../../woocommerce/cart/shipping-calculator.php:50
+#: ../../woocommerce/cart/shipping-calculator.php:62
+msgid "State / county"
+msgstr ""
+
+#: ../../woocommerce/cart/shipping-calculator.php:51
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: ../../woocommerce/cart/shipping-calculator.php:70
+msgid "City"
+msgstr ""
+
+#: ../../woocommerce/cart/shipping-calculator.php:76
+msgid "Postcode / Zip"
+msgstr ""
+
+#: ../../woocommerce/cart/shipping-calculator.php:80
+msgid "Update Totals"
+msgstr ""
+
+#: ../../woocommerce/checkout/form-billing.php:15
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: ../../woocommerce/checkout/form-billing.php:19
+#: ../../woocommerce/myaccount/form-edit-address.php:13
+#: ../../woocommerce/order/order-details.php:117
+msgid "Billing Address"
+msgstr ""
+
+#: ../../woocommerce/checkout/form-billing.php:38
+msgid "Create an account?"
+msgstr ""
+
+#: ../../woocommerce/checkout/form-billing.php:49
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: ../../woocommerce/checkout/form-shipping.php:28
+msgid "Ship to a different address?"
+msgstr ""
+
+#: ../../woocommerce/checkout/form-shipping.php:46
+msgid "Additional Information"
+msgstr ""
+
+#: ../../woocommerce/checkout/thankyou.php:17
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: ../../woocommerce/checkout/thankyou.php:21
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: ../../woocommerce/checkout/thankyou.php:23
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: ../../woocommerce/checkout/thankyou.php:27
+msgid "Pay"
+msgstr ""
+
+#: ../../woocommerce/checkout/thankyou.php:29
+msgid "My Account"
+msgstr ""
+
+#: ../../woocommerce/checkout/thankyou.php:35
+#: ../../woocommerce/checkout/thankyou.php:66
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: ../../woocommerce/checkout/thankyou.php:39
+msgid "Order:"
+msgstr ""
+
+#: ../../woocommerce/checkout/thankyou.php:43
+msgid "Date:"
+msgstr ""
+
+#: ../../woocommerce/checkout/thankyou.php:47
+msgid "Total:"
+msgstr ""
+
+#: ../../woocommerce/checkout/thankyou.php:52
+msgid "Payment method:"
+msgstr ""
+
+#: ../../woocommerce/myaccount/form-change-password.php:20
+msgid "New password"
+msgstr ""
+
+#: ../../woocommerce/myaccount/form-change-password.php:25
+msgid "Re-enter new password"
+msgstr ""
+
+#: ../../woocommerce/myaccount/form-change-password.php:31
+msgid "Save"
+msgstr ""
+
+#: ../../woocommerce/myaccount/form-edit-address.php:13
+#: ../../woocommerce/order/order-details.php:128
+msgid "Shipping Address"
+msgstr ""
+
+#: ../../woocommerce/myaccount/form-edit-address.php:36
+msgid "Save Address"
+msgstr ""
+
+#: ../../woocommerce/order/order-details.php:17
+msgid "Order Details"
+msgstr ""
+
+#: ../../woocommerce/order/order-details.php:67
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+#: ../../woocommerce/order/order-details.php:98
+msgid "Customer Details"
+msgstr ""
+
+#: ../../woocommerce/order/order-details.php:103
+msgid "Email:"
+msgstr ""
+
+#: ../../woocommerce/order/order-details.php:104
+msgid "Telephone:"
+msgstr ""
+
+#: ../../woocommerce/order/order-details.php:120
+#: ../../woocommerce/order/order-details.php:131
+msgid "N/A"
+msgstr ""
+
+#: ../../woocommerce/single-product/product-attributes.php:32
+msgid "Weight"
+msgstr ""
+
+#: ../../woocommerce/single-product/product-attributes.php:39
+msgid "Dimensions"
+msgstr ""
+
+#: ../../woocommerce/single-product/related.php:38
+msgid "Related Products"
+msgstr ""
+
+#: ../../woocommerce/single-product/up-sells.php:41
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: ../../woocommerce/single-product/add-to-cart/variable.php:28
+msgid "Choose an option"
+msgstr ""
+
+#: ../../woocommerce/single-product/add-to-cart/variable.php:111
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
